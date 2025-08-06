@@ -16,7 +16,7 @@
 
 [GitHub Action](https://github.com/features/actions) that will setup a [Swift](https://swift.org) environment with a specific version. Works on both Ubuntu and macOS runners.
 
-> [!WARNING]
+> [!CAUTION]
 > THIS IS A PRIVATE FORK, DO NOT USE IT! IT SHOULD NOT BE CONSIDERED SECURE!!!
 
 > [!IMPORTANT]

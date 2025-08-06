@@ -5,6 +5,10 @@
 
 For usage, see the original repository.
 
+## Building
+
+    npm run all
+
 ## Legal
 Uses MIT license. 
 The Swift logo is a trademark of Apple Inc.
